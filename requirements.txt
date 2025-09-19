@@ -1,0 +1,15 @@
+langchain
+datasets
+rank_bm25
+numpy
+langchain_google_genai
+langchain_community
+faiss-cpu
+python-dotenv
+torch
+tensorflow
+sentence-transformers
+deepeval
+pandas
+google-generativeai
+jupyter
